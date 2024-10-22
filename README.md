@@ -46,12 +46,6 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5941dfb0-d24a-4545-89c5-7bc34106c29b"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <!-- Add more icons as needed -->
+  <img src="https://github.com/user-attachments/assets/5941dfb0-d24a-4545-89c5-7bc34106c29b" alt="html5" width="40" height="40" style="max-width: 100%;/>
+  <img src="https://github.com/user-attachments/assets/12610f40-5497-47ec-b781-00ae2232a529" alt="css3" width="40" height="40" style="max-width: 100%;/>
 </p>
