@@ -67,10 +67,7 @@
   <img src="https://github.com/user-attachments/assets/87d0e8ea-447d-4826-97ea-91a5d3de6da5" alt="github" width="40" height="40" style="max-width: 100%;">
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="spring boot" width="40" height="40" style="max-width: 100%;">
   <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="postman" width="40" height="40" style="max-width: 100%;">
-
   <img src="https://github.com/user-attachments/assets/65d10663-362d-404e-9148-ef55245024d0" alt="cisco" width="40" height="40" style="max-width: 100%;">
-  
-
-
-
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api?username=bereket-desta&layout=compact&theme=redical)
