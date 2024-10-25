@@ -70,4 +70,4 @@
   <img src="https://github.com/user-attachments/assets/65d10663-362d-404e-9148-ef55245024d0" alt="cisco" width="40" height="40" style="max-width: 100%;">
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=bereket-desta&layout=compact&theme=redical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-desta&layput=compact&show_icons=true&theme=redical)
